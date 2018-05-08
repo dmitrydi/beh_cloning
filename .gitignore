@@ -3,4 +3,6 @@
 data/*
 data/**
 .ipynb_checkpoints
-__pycache__
+__pycache_
+trained_weights/*
+trained_weights/**_
